@@ -1,0 +1,12 @@
+Branch é uma linha do tempo (ramificacao) das modificacoes do seu codigo
+
+Master é a ramificao principal, nela deve estra o codigo mais atual e estável. nunca subir codigo com problema e quebrado para a branch master.
+
+Commit é o registro de modificacoes nos arquivos,
++ Mensagem que a pessoa que enviou o commit atrelou as modificacoes
++ nome e email da pessoa que modifcou
++ data
++ id unico - ou seja: seu HASH
+
+Stage, é aarea que vai armazenar os arquivos que vao ser commitados
+
